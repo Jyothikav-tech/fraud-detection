@@ -14,12 +14,12 @@ Features
 
 ```
 fraud-detection/
-├── api/                    # Prediction API
-├── models/                 # Saved model, scaler, threshold, feature columns
-├── app.py                  # Web app
-├── make_samples.py         # Generates samples.json from the dataset
-├── fraud_detection.ipynb   # Data exploration and model training
-├── samples.json            # Example transactions
+├── api/                    Prediction API
+├── models/                 Saved model, scaler, threshold, feature columns
+├── app.py                  Web app
+├── make_samples.py         Generates samples.json from the dataset
+├── fraud_detection.ipynb   Data exploration and model training
+├── samples.json            Example transactions
 └── requirements.txt
 ```
 Dataset
